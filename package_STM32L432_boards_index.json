@@ -20,7 +20,7 @@
           "url": "https://github.com/amg432/ARDSTM32L432/archive/0.0.1.tar.gz",
           "archiveFileName": "0.0.1.tar.gz",
           "checksum": "MD5:0f6b9f346b3ab6f7c0e0b786430b213b",
-          "size": "21471896",
+          "size": "15046882",
           "boards": [
             {"name": "ARDSTM32L432"},
             {"name": "NUCLEO-L432KC"}
