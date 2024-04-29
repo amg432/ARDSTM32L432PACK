@@ -22,7 +22,7 @@
           "checksum": "MD5:59f6a961303507b089b78ababd7fdada",
           "size": "16560145",
           "boards": [
-            {"name": "Ladybug-L432KC"},
+            {"name": "ARDSTM32L432"},
             {"name": "NUCLEO-L432KC"}
           ],
           "toolsDependencies": [
