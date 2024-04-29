@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/amg432/ARDSTM32L432-NOBTL/archive/0.0.1.tar.gz",
           "archiveFileName": "ARDSTM32L432-NOBTL-0.0.1.tar.gz",
-          "checksum": "MD5:d3cb87108b18778e2152315c0b7ea65c",
-          "size": "138368",
+          "checksum": "MD5:114b5cf357aa65de6678fc36f8cd182e",
+          "size": "138394",
           "boards": [
             {"name": "ARDSTM32L432"},
             {"name": "NUCLEO-L432KC"}
@@ -43,8 +43,8 @@
           },
           "url": "https://github.com/amg432/ARDSTM32L432-NOBTL/archive/0.0.2.tar.gz",
           "archiveFileName": "ARDSTM32L432-NOBTL-0.0.2.tar.gz",
-          "checksum": "MD5:568dbd19e759fa575509ec5181b277d3",
-          "size": "138368",
+          "checksum": "MD5:b8de50c2c6537ba61773893617f74173",
+          "size": "138394",
           "boards": [
             {"name": "ARDSTM32L432"},
             {"name": "NUCLEO-L432KC"}
