@@ -22,8 +22,8 @@
           "checksum": "MD5:9bed42c16a38e7ca585303ae27880bf0",
           "size": "15048239",
           "boards": [
-            {"name": "ARDSTM32L432"},
-            {"name": "NUCLEO-L432KC"}
+            {"name": "ARDSTM32L432_NOBTL"},
+            {"name": "NUCLEOL432KC_NOBTL"}
           ],
           "toolsDependencies": [
             {
@@ -46,8 +46,8 @@
           "checksum": "MD5:28884a41120edf53812289ff8aa132ed",
           "size": "15048543",
           "boards": [
-            {"name": "ARDSTM32L432"},
-            {"name": "NUCLEO-L432KC"}
+            {"name": "ARDSTM32L432_NOBTL"},
+            {"name": "NUCLEOL432KC_NOBTL"}
           ],
           "toolsDependencies": [
             {
