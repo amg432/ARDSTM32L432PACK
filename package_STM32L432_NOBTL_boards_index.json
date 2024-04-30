@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "STM32L4 Boards",
+          "name": "STM32L4 NOBTL Boards",
           "architecture": "stm32l4",
           "version": "0.0.1",
           "category": "Contributed",
@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/amg432/ARDSTM32L432-NOBTL/archive/0.0.1.tar.gz",
           "archiveFileName": "ARDSTM32L432-NOBTL-0.0.1.tar.gz",
-          "checksum": "MD5:114b5cf357aa65de6678fc36f8cd182e",
-          "size": "138394",
+          "checksum": "MD5:9bed42c16a38e7ca585303ae27880bf0",
+          "size": "15048239",
           "boards": [
             {"name": "ARDSTM32L432"},
             {"name": "NUCLEO-L432KC"}
@@ -34,7 +34,7 @@
           ]
         },
         {
-          "name": "STM32L4 Boards",
+          "name": "STM32L4 NOBTL Boards",
           "architecture": "stm32l4",
           "version": "0.0.2",
           "category": "Contributed",
@@ -43,8 +43,8 @@
           },
           "url": "https://github.com/amg432/ARDSTM32L432-NOBTL/archive/0.0.2.tar.gz",
           "archiveFileName": "ARDSTM32L432-NOBTL-0.0.2.tar.gz",
-          "checksum": "MD5:b8de50c2c6537ba61773893617f74173",
-          "size": "138394",
+          "checksum": "MD5:28884a41120edf53812289ff8aa132ed",
+          "size": "15048543",
           "boards": [
             {"name": "ARDSTM32L432"},
             {"name": "NUCLEO-L432KC"}
