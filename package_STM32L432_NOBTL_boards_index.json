@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "ARDSTM32L432-NOBTL",
+      "name": "ARDSTM32L432NOBTL",
       "maintainer": "IOT",
-      "websiteURL": "https://github.com/amg432/ARDSTM32L432-NOBTL",
+      "websiteURL": "https://github.com/amg432/ARDSTM32L432NOBTL",
       "email": "amg432@gmail.com",
       "help": {
-        "online": "https://github.com/amg432/ARDSTM32L432-NOBTL/issues"
+        "online": "https://github.com/amg432/ARDSTM32L432NOBTL/issues"
       },
       "platforms": [
         {
@@ -15,12 +15,12 @@
           "version": "0.0.1",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/amg432/ARDSTM32L432-NOBTL/issues"
+            "online": "https://github.com/amg432/ARDSTM32L432NOBTL/issues"
           },
-          "url": "https://github.com/amg432/ARDSTM32L432-NOBTL/archive/0.0.1.tar.gz",
-          "archiveFileName": "ARDSTM32L432-NOBTL-0.0.1.tar.gz",
-          "checksum": "MD5:9bed42c16a38e7ca585303ae27880bf0",
-          "size": "15048239",
+          "url": "https://github.com/amg432/ARDSTM32L432NOBTL/archive/0.0.1.tar.gz",
+          "archiveFileName": "ARDSTM32L432NOBTL-0.0.1.tar.gz",
+          "checksum": "MD5:8d889a97328d99d7da8aef3a11a0fb69",
+          "size": "15048105",
           "boards": [
             {"name": "ARDSTM32L432_NOBTL"},
             {"name": "NUCLEOL432KC_NOBTL"}
@@ -39,12 +39,12 @@
           "version": "0.0.2",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/amg432/ARDSTM32L432-NOBTL/issues"
+            "online": "https://github.com/amg432/ARDSTM32L432NOBTL/issues"
           },
-          "url": "https://github.com/amg432/ARDSTM32L432-NOBTL/archive/0.0.2.tar.gz",
-          "archiveFileName": "ARDSTM32L432-NOBTL-0.0.2.tar.gz",
-          "checksum": "MD5:28884a41120edf53812289ff8aa132ed",
-          "size": "15048543",
+          "url": "https://github.com/amg432/ARDSTM32L432NOBTL/archive/0.0.2.tar.gz",
+          "archiveFileName": "ARDSTM32L432NOBTL-0.0.2.tar.gz",
+          "checksum": "MD5:d219892ed0da7d3c96f4baa5e09c7496",
+          "size": "15048097",
           "boards": [
             {"name": "ARDSTM32L432_NOBTL"},
             {"name": "NUCLEOL432KC_NOBTL"}
