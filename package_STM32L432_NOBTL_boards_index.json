@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/amg432/ARDSTM32L432NOBTL/archive/0.0.1.tar.gz",
           "archiveFileName": "ARDSTM32L432NOBTL-0.0.1.tar.gz",
-          "checksum": "MD5:",
+          "checksum": "MD5:8f3cbb6ae3b3c92a56481ae1fc498792",
           "size": "12961110",
           "boards": [
             {"name": "STM32L432-IOT"},
@@ -43,7 +43,7 @@
           },
           "url": "https://github.com/amg432/ARDSTM32L432NOBTL/archive/0.0.2.tar.gz",
           "archiveFileName": "ARDSTM32L432NOBTL-0.0.2.tar.gz",
-          "checksum": "MD5:",
+          "checksum": "MD5:9260e7142eb1be5235af72b37bc9ede5",
           "size": "12960641",
           "boards": [
             {"name": "STM32L432-IOT"},
