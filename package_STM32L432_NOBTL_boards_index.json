@@ -20,7 +20,7 @@
           "url": "https://github.com/amg432/ARDSTM32L432NOBTL/archive/0.0.1.tar.gz",
           "archiveFileName": "ARDSTM32L432NOBTL-0.0.1.tar.gz",
           "checksum": "MD5:",
-          "size": "",
+          "size": "12961110",
           "boards": [
             {"name": "STM32L432-IOT"},
             {"name": "STM32L432-NUCLEO"}
@@ -44,7 +44,7 @@
           "url": "https://github.com/amg432/ARDSTM32L432NOBTL/archive/0.0.2.tar.gz",
           "archiveFileName": "ARDSTM32L432NOBTL-0.0.2.tar.gz",
           "checksum": "MD5:",
-          "size": "",
+          "size": "12960641",
           "boards": [
             {"name": "STM32L432-IOT"},
             {"name": "STM32L432-NUCLEO"}
